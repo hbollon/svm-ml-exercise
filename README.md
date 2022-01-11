@@ -28,7 +28,7 @@ Les points d’entraînement les plus proches de la frontière sont appelés vec
 
 <br><br>
 
-Dans certains cas, il est impossible de trouver de ligne droite qui soit une frontière: on dit que les données d’entraînement ne sont pas linéairement séparables:
+Dans certains cas, il est impossible de trouver de ligne droite qui soit une frontière: on dit que les données d’entraînement ne sont pas linéairement `séparables` (Cette définition va être importante pour la suite):
 
 ![output3](https://github.com/hbollon/svm-ml-exercise/blob/main/images/output3.png?raw=true)
 
@@ -38,6 +38,8 @@ Dans ce genre cas on peut utiliser ce qu'on appele un `kernel trick`: Je vous la
 
 [Vous pouvez récupérer le fichier CSV ainsi que le fichier Jupyter à compléter ici](https://github.com/hbollon/svm-ml-exercise).
 
-(N'hésitez pas à star le projet et à devenir sponsor pour soutenir les petits développeurs locaux)
+(N'hésitez pas à star le projet et à devenir sponsor pour soutenir les petits développeurs locaux).
+
+(N'hésitez pas à follow [Samuel](https://github.com/samuel3105) pour du contenu de qualité sur Github).
 
 [Vous pouvez maintenant faire l'exercice en cliquant sur ce lien](https://guarded-ridge-06310.herokuapp.com/eudpquhe).
